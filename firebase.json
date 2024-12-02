@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"flutter":{"platforms":{"android":{"default":{"projectId":"smp-chat-5bb23","appId":"1:263281507170:android:2973b7b91e4c0020f6ca3b","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"smp-chat-5bb23","configurations":{"android":"1:263281507170:android:2973b7b91e4c0020f6ca3b"}}}}}}
+=======
+{"flutter":{"platforms":{"android":{"default":{"projectId":"smp-1-3a26e","appId":"1:951854646259:android:12e23892bcb93661a90886","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"smp-1-3a26e","configurations":{"android":"1:951854646259:android:12e23892bcb93661a90886"}}}}}}
+>>>>>>> 6f653a1dbc1a6fa0903d095bb8f923b67afcda73

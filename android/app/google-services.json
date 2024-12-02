@@ -1,0 +1,64 @@
+{
+  "project_info": {
+<<<<<<< HEAD
+    "project_number": "263281507170",
+    "project_id": "smp-chat-5bb23",
+    "storage_bucket": "smp-chat-5bb23.firebasestorage.app"
+=======
+    "project_number": "951854646259",
+    "project_id": "smp-1-3a26e",
+    "storage_bucket": "smp-1-3a26e.firebasestorage.app"
+>>>>>>> 6f653a1dbc1a6fa0903d095bb8f923b67afcda73
+  },
+  "client": [
+    {
+      "client_info": {
+<<<<<<< HEAD
+        "mobilesdk_app_id": "1:263281507170:android:23a104d53f752f23f6ca3b",
+        "android_client_info": {
+          "package_name": "com.example.smp"
+=======
+        "mobilesdk_app_id": "1:951854646259:android:1ca919bf8e02fc87a90886",
+        "android_client_info": {
+          "package_name": "com.example.chatting_1"
+>>>>>>> 6f653a1dbc1a6fa0903d095bb8f923b67afcda73
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+<<<<<<< HEAD
+          "current_key": "AIzaSyDIy7335TFpZ2HZ9vlsiP1J_w0_AabIvWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263281507170:android:2973b7b91e4c0020f6ca3b",
+        "android_client_info": {
+          "package_name": "com.example.smp_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIy7335TFpZ2HZ9vlsiP1J_w0_AabIvWc"
+=======
+          "current_key": "AIzaSyBZYx77zvKIqFyYtZiArt4fcUnU2PG1hAg"
+>>>>>>> 6f653a1dbc1a6fa0903d095bb8f923b67afcda73
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
